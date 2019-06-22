@@ -1,6 +1,10 @@
 # My School Tree #
 A Social Framework for Green Intiative
 
+I know it's github, the  heaven for all geeks and this project is not about technology, but it is open source,
+inspired by the fact that how communities has built such great softwares !
+
+
 With increasing temperature and all other signs of global warming, we all wants to do something about it.
 We as grown up adults somewhere in our hearts strongly feel the fact that, this is not the world we want to give to the future generations. 
 
@@ -48,12 +52,12 @@ The thought here is to link a purpose to the action.
 The needed manpower need not be the kids only but can be the parents too. 
 In summary, can there be any idea which involves teachers, kids and parents with win win for all ?
 
-### Availability of land ###
+### 2 Availability of land ###
 School’s own land can be used and will be filled shortly with few classes or groups. There can be local government supports to avail more lands. 
 There can be road dividers in city which can be used for planting. Possibilities are endless. More creative ideas are welcome !
 
 
-### Supply of Trees and Materials ###
+### 3 Supply of Trees and Materials ###
 Depending on geography and other economical aspects this might not be a big issue. Trees can be availed from local forest departments. Other materials can be made available by charity or support from local farmers. 
 Please contribute your valuable creative ideas.
 
